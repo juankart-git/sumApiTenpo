@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'sumApiTenpo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9E67E25969B4EF395AB800DDE8BB33A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FEDB749ABFF4FCE8D69079FE56C88DE }}
           package: '*.jar'
